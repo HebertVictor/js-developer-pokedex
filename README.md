@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-![Pokedex Image](Captura_pokedex.png)
+![Pokedex Image](./assets/images/Captura_pokedex.png)
